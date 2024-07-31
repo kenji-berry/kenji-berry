@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Kenji Berry, a passionate web developer based in London, currently attending Queen Mary University of London. I'm bilingual in English and Japanese and currently in my third year, pursuing a degree in Computer Science with predicted first-class honours.
+Hello! I'm Kenji Berry, a passionate web developer based in London, currently attending Queen Mary University of London. I'm bilingual in English and Japanese and currently in my third year, pursuing a degree in Computer Science with predicted first-class honours. I also love experimenting with 3D elements using tools like Spline to bring unique and engaging experiences to the web. Most of my recent work is in private repositories, so while my public profile might not fully showcase my coding activity, I am actively developing various projects. If you're interested in seeing specific examples of my work, feel free to reach out.
 
 
 # 💻 Tech Stack:
