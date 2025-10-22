@@ -6,3 +6,5 @@ I specialise in **front‑end development** using **JavaScript, Next.js, React, 
 My key projects include **Skinergy**, a League of Legends skin collection and matcher, and **CodeConnect**, a platform connecting open‑source projects with contributors. Both highlight my focus on building scalable, user‑friendly applications.  
 
 I thrive in collaborative teams, delivering clean, maintainable code under deadlines. Outside of work, I enjoy **calisthenics** and **cooking**, which keep me balanced and creative. I’m open to opportunities in **London, Japan, or remote**.
+
+https://www.kenji.london/
