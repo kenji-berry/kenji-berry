@@ -8,3 +8,7 @@ My key projects include **Skinergy**, a League of Legends skin collection and ma
 I thrive in collaborative teams, delivering clean, maintainable code under deadlines. Outside of work, I enjoy **calisthenics** and **cooking**, which keep me balanced and creative. I’m open to opportunities in **London, Japan, or remote**.
 
 https://www.kenji.london/
+
+Explore my repositories below. Each project includes a detailed README that explains its purpose, features, and tech stack.
+
+
